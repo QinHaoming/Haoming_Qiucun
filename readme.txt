@@ -1,2 +1,2 @@
-Git is a distributed version control system.
-Git is free software.
+队伍名称：秦浩铭和闫秋存
+组成人员：秦浩铭SZ160110121和闫秋存SZ160110126
